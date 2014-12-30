@@ -1,7 +1,7 @@
 # An Example Page!
 > Practicing making a basic page with html/css and bootstrap from scratch
 
-# Technologies
+## Technologies
 - HTML
 - CSS
 - Bootstrap
